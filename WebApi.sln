@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestDealFinder.WebApi", "BestDealFinder.WebApi/BestDealFinder.WebApi.csproj", "{2F451155-5EA3-4564-AC17-89867104AB6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestDealFinder.Models", "BestDealFinder.Models\BestDealFinder.Models.csproj", "{505ED4C0-A55D-48DB-AC83-9C50E1424836}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BestDealFinder.Services", "BestDealFinder.Services\BestDealFinder.Services.csproj", "{E5CE2E88-A1D2-4C54-9356-0AA6053A4282}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F451155-5EA3-4564-AC17-89867104AB6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F451155-5EA3-4564-AC17-89867104AB6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F451155-5EA3-4564-AC17-89867104AB6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F451155-5EA3-4564-AC17-89867104AB6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{505ED4C0-A55D-48DB-AC83-9C50E1424836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{505ED4C0-A55D-48DB-AC83-9C50E1424836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{505ED4C0-A55D-48DB-AC83-9C50E1424836}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{505ED4C0-A55D-48DB-AC83-9C50E1424836}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5CE2E88-A1D2-4C54-9356-0AA6053A4282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5CE2E88-A1D2-4C54-9356-0AA6053A4282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5CE2E88-A1D2-4C54-9356-0AA6053A4282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5CE2E88-A1D2-4C54-9356-0AA6053A4282}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89D9B2A2-BEA7-4072-A86B-7858D7C0ADB1}
+	EndGlobalSection
+EndGlobal

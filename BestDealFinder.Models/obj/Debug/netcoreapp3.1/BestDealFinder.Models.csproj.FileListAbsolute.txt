@@ -1,0 +1,9 @@
+D:\Development\Github\POC\BestDealFinder\BestDealFinder.Models\bin\Debug\netcoreapp3.1\BestDealFinder.Models.deps.json
+D:\Development\Github\POC\BestDealFinder\BestDealFinder.Models\bin\Debug\netcoreapp3.1\BestDealFinder.Models.dll
+D:\Development\Github\POC\BestDealFinder\BestDealFinder.Models\bin\Debug\netcoreapp3.1\BestDealFinder.Models.pdb
+D:\Development\Github\POC\BestDealFinder\BestDealFinder.Models\obj\Debug\netcoreapp3.1\BestDealFinder.Models.csproj.AssemblyReference.cache
+D:\Development\Github\POC\BestDealFinder\BestDealFinder.Models\obj\Debug\netcoreapp3.1\BestDealFinder.Models.AssemblyInfoInputs.cache
+D:\Development\Github\POC\BestDealFinder\BestDealFinder.Models\obj\Debug\netcoreapp3.1\BestDealFinder.Models.AssemblyInfo.cs
+D:\Development\Github\POC\BestDealFinder\BestDealFinder.Models\obj\Debug\netcoreapp3.1\BestDealFinder.Models.csproj.CoreCompileInputs.cache
+D:\Development\Github\POC\BestDealFinder\BestDealFinder.Models\obj\Debug\netcoreapp3.1\BestDealFinder.Models.dll
+D:\Development\Github\POC\BestDealFinder\BestDealFinder.Models\obj\Debug\netcoreapp3.1\BestDealFinder.Models.pdb

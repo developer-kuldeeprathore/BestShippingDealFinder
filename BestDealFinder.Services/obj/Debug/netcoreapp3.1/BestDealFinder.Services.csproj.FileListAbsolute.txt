@@ -1,0 +1,12 @@
+D:\Development\Github\POC\BestDealFinder\BestDealFinder.Services\bin\Debug\netcoreapp3.1\BestDealFinder.Services.deps.json
+D:\Development\Github\POC\BestDealFinder\BestDealFinder.Services\bin\Debug\netcoreapp3.1\BestDealFinder.Services.dll
+D:\Development\Github\POC\BestDealFinder\BestDealFinder.Services\bin\Debug\netcoreapp3.1\BestDealFinder.Services.pdb
+D:\Development\Github\POC\BestDealFinder\BestDealFinder.Services\bin\Debug\netcoreapp3.1\BestDealFinder.Models.dll
+D:\Development\Github\POC\BestDealFinder\BestDealFinder.Services\bin\Debug\netcoreapp3.1\BestDealFinder.Models.pdb
+D:\Development\Github\POC\BestDealFinder\BestDealFinder.Services\obj\Debug\netcoreapp3.1\BestDealFinder.Services.csproj.AssemblyReference.cache
+D:\Development\Github\POC\BestDealFinder\BestDealFinder.Services\obj\Debug\netcoreapp3.1\BestDealFinder.Services.AssemblyInfoInputs.cache
+D:\Development\Github\POC\BestDealFinder\BestDealFinder.Services\obj\Debug\netcoreapp3.1\BestDealFinder.Services.AssemblyInfo.cs
+D:\Development\Github\POC\BestDealFinder\BestDealFinder.Services\obj\Debug\netcoreapp3.1\BestDealFinder.Services.csproj.CoreCompileInputs.cache
+D:\Development\Github\POC\BestDealFinder\BestDealFinder.Services\obj\Debug\netcoreapp3.1\BestDealFinder.Services.csproj.CopyComplete
+D:\Development\Github\POC\BestDealFinder\BestDealFinder.Services\obj\Debug\netcoreapp3.1\BestDealFinder.Services.dll
+D:\Development\Github\POC\BestDealFinder\BestDealFinder.Services\obj\Debug\netcoreapp3.1\BestDealFinder.Services.pdb
